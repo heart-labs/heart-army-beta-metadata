@@ -1,0 +1,17 @@
+{
+    "name": "Heart Army #755",
+    "description": "The Energy Polyhedron is failing and a new hyperenergy structure has been implemented for assembling to the fallen star, the gift from the heavens. The Highcrown Council has selected and trained an army of children. Together, they will carry the hyperenergy heart to the crater and found a new city. Once more, the survivor kids will carry the hope of life for the neo-genesis. May the gods have mercy of our souls. May the Ethertree council survive in the hearts of this kids. We don't ask mercy from the winter, as is it's will is to render all life null. We ask for strength.",
+    "image":"https://raw.githubusercontent.com/buidlers-of-ethra/heart-army-beta-metadata/main/images/755.jpg",
+    "attributes": [
+        {"trait_type":"Race","value":"Dragonborn"},
+        {"trait_type":"Face","value":"Decisive"},
+        {"trait_type":"Job","value":"Soldier"},
+        {"trait_type":"Racial Trait","value":"Small Horns"},
+        {"trait_type":"Pendant","value":"Six-pointed Stars"},
+        {"trait_type":"Hairstyle","value":"Long Unstyled"},
+        {"trait_type":"Body Palette","value":"Devil's Fire"},
+        {"trait_type":"Pact","value":"Blue Flames of Ghadorah"},
+        {"trait_type":"Hair Color","value":"Light Brown"},
+        {"trait_type":"Background","value":"Yellowish Fairy"}
+    ]
+}
